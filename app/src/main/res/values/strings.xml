@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Trivia Game</string>
+    <string name="write_name_of_the_capital">Write Name of the Capital</string>
+    <string name="country">Country</string>
+    <string name="Check">Check</string>
+    <string name="round">Round - 1</string>
+    <string name="correct_answer_capital">Correct Answer: Capital</string>
+    <string name="times_up">Time\'s Up</string>
+
+    <string-array name="name_of_countries">
+        <item>Afghanistan</item>
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>Denmark</item>
+        <item>England</item>
+        <item>Finland</item>
+        <item>Germany</item>
+        <item>Hungary</item>
+        <item>Italy</item>
+    </string-array>
+
+    <string-array name="name_of_capitals">
+        <item>Kabul</item>
+        <item>Canberra</item>
+        <item>Dhaka</item>
+        <item>Ottawa</item>
+        <item>Copenhagen</item>
+        <item>London</item>
+        <item>Helsinki</item>
+        <item>Berlin</item>
+        <item>Budapest</item>
+        <item>Rome</item>
+    </string-array>
+</resources>
